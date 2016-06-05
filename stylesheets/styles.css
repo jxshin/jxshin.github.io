@@ -19,7 +19,7 @@ body {
 }
 
 .wrapper {
-  width: 640px;
+  width: 800px;
   margin: 0 auto;
   background: #DEDEDE;
   -webkit-border-radius: 8px;
@@ -261,7 +261,7 @@ table {
 th, td {
   text-align: left;
   padding: 5px 10px;
-  border-bottom: 1px solid #aaa;
+
 }
 
 dt {
